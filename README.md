@@ -151,4 +151,4 @@ linux admin - devops - aws learning path
 
 ## Authors
 
-- [Dhansekar T](https://tkdhanasekar.wordpress.com)
+- [Dhanasekar T](https://tkdhanasekar.wordpress.com)
