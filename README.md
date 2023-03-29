@@ -71,7 +71,6 @@ linux admin - devops - aws learning path
 - Amazon Beanstalk
 - Lambda
 - Security Management (Trusted Advisor)
-- Amazon SNS
 - Amazon SImple Notification Service (SNS)
 - Management Tools (Cloud Trail and Cloud Watch)
 - Amazon Simple Email Service (SES)
