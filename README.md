@@ -120,8 +120,14 @@ linux admin - devops - aws learning path
 
 ### 4. Kubernetes
 
-- Kubernetes Introduction
+- Kubernetes architecture and componets Introduction
 - Kubernetes Installation
+- AWS EKS Installation
+- Nginx Ingress controller , ALB access multiple apps in AWS EKS
+- secure applications running on Kubernetes using SSL
+- Helm Installation 
+- creating apps using Helm Charts
+- creating customised helm charts
 
 
 ### 5. Ansible
@@ -134,18 +140,39 @@ linux admin - devops - aws learning path
 
 - Jenkins Introduction
 - Jenkins Installation
+- Jenkins Container Installation
+- Configure Email Notification
+- Executing commands from Shells
+- Jenkins Declarative pipeline
+- Build and push docker image to docker hub using Jenkins
+- Build and push docker image to AWS ECR using Jenkins
+- Deploy code to remote server using Jenkins
+- Jenkins master slave setup
+- SonarQube setup
+- Nexus Artifatory  
+- Jenkins Maven Integration
 
 
 ### 7. Terraform
 
 - Terraform Introduction
 - Terraform Installation
+- Terraform Docker containers
+- Terraform AWS EC2 creation
+- Terraform S3 Bucket creation
+- Terraform RDS Mysql , PgSql 
+- Terraform tfstate backup in terraform registry, S3
 
 
 ### 8. Prometheus 
 
 - Prometheus Introduction
-- Prometheus Installation
+- Prometheus , AlertManager , Grafana Installation
+- Installation of various exporters 
+  - node_exporter, apache_exporter, nginx_exporter, mysql_exporter, pgsql_exporter
+- Email Alerts and rules
+- customised Dashboard
+
 
 
 ## Authors
