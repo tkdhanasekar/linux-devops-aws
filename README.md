@@ -53,36 +53,23 @@ linux admin - devops - aws learning path
 
 - EC2
 - Elastic Block Storage (EBS)
-- Elastic File System (EFS)
-- Elastic Load Balancer / Target Group (ELB)
-- Networking (VPC)
+- Elastic Load Balancer / Target Group (ELB) Application LB only
+- Networking (VPC) 
 - Auto Scaling
 - Amazon ECR
 - Amazon ECS
-- Amazon EKS
-- Fargate
-- Amazon Route 53
+- Amazon Route 53 explain only
 - Amazon S3 & Glacier
-- Amazon CDN (Cloud Front)
 - Amazon RDS
-- Amazon Redshift
-- Amazon DynamoDB
-- Amazon Elastic Cache
-- Amazon Beanstalk
 - Lambda
 - Security Management (Trusted Advisor)
 - Amazon SImple Notification Service (SNS)
 - Management Tools (Cloud Trail and Cloud Watch)
-- Amazon Simple Email Service (SES)
-- Amazon Simple Queue Service (SQS)
 - AWS IAM
 - AWS CLI
 - S3-Browser
-- Trouleshooting
-- AWS Certificate Manager
-- Pricing
-- AWS Key Management Service (KMS)
-
+- Pricing 
+- AWS Key Management Service (KMS) Introduction
 
 
 ### 3. Git/GitHub
